@@ -1,90 +1,80 @@
-<!-- ============================================================
-     TEMPLATE 2 — CREATIVE
-     Shows personality. Great if you want to stand out.
-     Replace everything inside [ ] with your own info.
-     ============================================================ -->
+<div align="center">
 
-<!-- HEADER BANNER
-     Optional: generate a custom banner at https://capsule-render.vercel.app
-     Then replace the URL below with your generated image link. -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20profile!)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a2e&height=140&section=header&text=anonymouslugaw&fontColor=00ff9c&fontSize=42&fontAlignY=55&desc=Data%20%2F%20ML%20%E2%80%94%20building%20things%20that%20think&descAlignY=78&descColor=8b949e&fontFamily=monospace" width="100%"/>
 
-<!-- INTRO — Write this like you're talking to a new friend. -->
-### Hey there! I'm Jace! 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=560&lines=%24+whoami;jace+%E2%80%94+data%2Fml+%2F%2F+building+in+python%2C+c%23%2C+sql;%24+cat+status.txt;shipping+quietly.+debugging+loudly." alt="Typing SVG" />
 
-> Expect the worst, but hope for the best.
+</div>
 
-I'm a **1st-year Computer Science student** at Angeles University Foundation.
-I love turning ideas into code, especially when it involves games!
+<br>
 
----
-
-<!-- CURRENTLY SECTION
-     What are you working on or learning right now?
-     This shows visitors you're actively growing.             -->
-## What I'm up to
-
-- 🔨 Building → Code Tracers, 
-- 📖 Learning → R and Java
-- 🤝 Open to → [internships / collaborations / open source]
-- 🎯 Goal this year → Expand my knowledge and experience in the world of Computer Science
-
----
-
-<!-- SKILLS — Organized by category so it's easy to read.
-     Remove any row that doesn't apply to you yet.          -->
-## My toolbox
-
-**Languages**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-<!-- **Web & frameworks**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) -->
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-<!-- FEATURED PROJECT
-     Pick ONE project you're proudest of and tell its story.
-     What problem did it solve? What did you learn?          -->
-     
-<!-- ## Featured project
-
-### [Project Name] — [one-line description]
-
-[2–3 sentences about the project. What problem does it solve?
-Who is it for? What was the hardest part to build?]
-
-🔗 [View repo](https://github.com/yourusername/repo) &nbsp;|&nbsp; 🌐 [Live demo](https://yourproject.com)  -->
-
----
-
-<!-- FUN STUFF — Optional section. Shows personality! -->
-## A little more about me
-
-```
-const [yourName] = {
-  pronouns:    "[he/him]",
-  university:  "[Angeles University Foundation]",
-  loves:       ["coding", "guitar", "video games"],
-  currentMood: "[optimistic]",
+```c#
+// ~/anonymouslugaw/about.cs
+public class Developer
+{
+    public string   Focus      = "Data / Machine Learning";
+    public string[] Stack      = { "Python", "C#", "SQL" };
+    public string   Currently  = "Building AdaptEd + Playback.exe";
+    public bool     OpenToWork = true;
 }
 ```
 
----
+<br>
 
-<!-- CONNECT — Keep only platforms you check regularly. -->
-## Find me online
+### `> stack --list`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jace-matthew-catriz-8872b93b3/?skipRedirect=true)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anonymouslugaw)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ecaj.2007@gmail.com)
+<div align="left">
 
-<!-- ============================================================
-     TIP: The waving banner at the top uses capsule-render.
-     Customize the color, height, and font at the URL above!
-     ============================================================ -->
+<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=csharp&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF9C" />
+
+</div>
+
+<br>
+
+### `> ls ./projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[`Playback.exe`](https://github.com/anonymouslugaw/Playback.exe.git)**
+> An MIL-focused investigation game.
+
+</td>
+<td width="50%" valign="top">
+
+**`AdaptEd`**
+> An AI-assisted to-do list built for students.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### `> stats --fetch`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anonymouslugaw&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=8b949e" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymouslugaw&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>
+
+</div>
+
+<br>
+
+### `> connect --to jace`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jace-matthew-catriz-8872b93b3/">
+<img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" />
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0d1117&height=60&section=footer" width="100%"/>
