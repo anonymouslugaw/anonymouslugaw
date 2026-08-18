@@ -8,73 +8,84 @@
 
 <br>
 
-```c#
-// ~/anonymouslugaw/about.cs
-public class Developer
-{
-    public string   Focus      = "Data / Machine Learning";
-    public string[] Stack      = { "Python", "C#", "SQL" };
-    public string   Currently  = "Building AdaptEd + Playback.exe";
-    public bool     OpenToWork = true;
+<!-- INTRO — Write this like you're talking to a new friend. -->
+### Hey there! I'm Jace! 👋
+
+> Expect the worst, but hope for the best.
+
+I'm a **2nd-year Computer Science student** at Angeles University Foundation.
+I love turning ideas into code, especially when it involves games or data!
+
+---
+
+<!-- CURRENTLY SECTION
+     What are you working on or learning right now?
+     This shows visitors you're actively growing.             -->
+## What I'm up to
+
+- 🔨 Building → Games, Web Apps,  
+- 📖 Learning → Python, C#, Networking
+- 🤝 Open to → [internships / collaborations / open source]
+- 🎯 Goal this year → Expand my knowledge and experience in the world of Computer Science
+
+---
+
+<!-- SKILLS — Organized by category so it's easy to read.
+     Remove any row that doesn't apply to you yet.          -->
+## My toolbox
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+<!-- **Web & frameworks**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) -->
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+<!-- FEATURED PROJECT
+     Pick ONE project you're proudest of and tell its story.
+     What problem did it solve? What did you learn?          -->
+     
+ ## Featured project
+
+### [Playback.exe] — [MIL-focused Investigation Game]
+
+[It is a game we made for the 2026 UNESCO Hackathon. It is a semi-horror MIL-focused game centered around
+finding clues and verifying facts.]
+
+🔗 [View repo](https://github.com/anonymouslugaw/Playback.exe.git)
+
+---
+
+<!-- FUN STUFF — Optional section. Shows personality! -->
+## A little more about me
+
+```
+const [yourName] = {
+  pronouns:    "[he/him]",
+  university:  "[Angeles University Foundation]",
+  loves:       ["coding", "guitar", "video games"],
+  currentMood: "[optimistic]",
 }
 ```
 
-<br>
+---
 
-### `> stack --list`
+<!-- CONNECT — Keep only platforms you check regularly. -->
+## Find me online
 
-<div align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jace-matthew-catriz-8872b93b3/?skipRedirect=true)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anonymouslugaw)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ecaj.2007@gmail.com)
 
-<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=csharp&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF9C" />
-
-</div>
-
-<br>
-
-### `> ls ./projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[`Playback.exe`](https://github.com/anonymouslugaw/Playback.exe.git)**
-> An MIL-focused investigation game.
-
-</td>
-<td width="50%" valign="top">
-
-**`AdaptEd`**
-> An AI-assisted to-do list built for students.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### `> stats --fetch`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anonymouslugaw&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=8b949e" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymouslugaw&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>
-
-</div>
-
-<br>
-
-### `> connect --to jace`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jace-matthew-catriz-8872b93b3/">
-<img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" />
-</a>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0d1117&height=60&section=footer" width="100%"/>
